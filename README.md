@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sanketkale97
+- 👋 Hi, I’m Sanket,
 - 👀 Trainee-Software Engineer at HAYS
 
 <!---
